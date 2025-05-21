@@ -13,3 +13,4 @@ A simple WinForms app to match item codes between a POS Excel file and an ABC Ex
 
 - POS Excel must contain: `Default Vendor Code`, `Current Quantity`
 - ABC Excel must contain: `Item Code #`, `Name`
+- ABC must be in .xlsx format

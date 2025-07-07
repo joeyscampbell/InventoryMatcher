@@ -13,5 +13,7 @@ A simple WinForms app to match item codes between a POS Excel file and an ABC Ex
 
 - POS Excel must contain: `Default Vendor Code`, `Current Quantity`
 - ABC Excel must contain: `Item Code #`, `Name`
-- ABC Date column must be formated as a valid date 
+- `SPA Price Effective` column must be formated as a valid date (In Google Sheets click SPA Price Effective Column, Click Format as Number, and choose Date)
 - ABC must be in .xlsx format
+
+
